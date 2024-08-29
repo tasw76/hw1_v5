@@ -1,0 +1,63 @@
+---
+title: "data_sci_uvgotthis"
+format: html
+editor: visual
+editor_options: 
+  chunk_output_type: console
+---
+
+# First of the two things in homework 1
+
+## what do you think being a data scientist is about?
+
+From what I read from week 1 course materials, data scientist import data, tidy them, transform them which includings visualizing and modeling, and then communicate the results or outcomes with interested party. Data scientists will program extensively in each of the above steps.
+
+## What differences/similarities do you see between data scientists and statisticians?
+
+There are a few major differences between the two. Statisticians design the procedures, whether they are experiments or surveys. They then study the results. They work with relatively clean data, and relatively more established models when drawing conclusions. Data scientists usually work with unstructured and large data. They need to get creative because there might be a mix of statistical tools and techniques that are needed for them to carry out data cleaning and to apply predictive models. Also, there is an emphasis on machine learning for data science professionals, which is different from the scope of work for statisticians.
+
+Nonetheless, both of them possess a deep understanding of statistical theories and methods when it comes to data analyses and making inferences. They both use techniques such as hypothesis testing, regression, and probability theory when working with data.
+
+## How do you view yourself in relation to these two areas?
+
+Currently, my work relates more to statistics. However, to expand research topics and to explore more interesting research questions, it will be beneficial to be equipped with data science knowledge and techniques. This is because, with specialties in data science, I can analyze much more unstructured data and discover interesting findings.
+
+# Second of the two things in homework 1
+
+### Task 1: Determine the class, type, and structure of the object y
+
+```{r}
+y <- density(iris$Petal.Width)
+class(y)
+typeof(y)
+str(y)
+```
+
+### Task 2: Plot y
+
+```{r}
+#| echo: false
+plot(y)
+```
+
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).

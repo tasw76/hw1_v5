@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "my_quarto_doc_hw1.html",
+    "href": "my_quarto_doc_hw1.html",
+    "title": "data_sci_uvgotthis",
+    "section": "",
+    "text": "From what I read from week 1 course materials, data scientist import data, tidy them, transform them which includings visualizing and modeling, and then communicate the results or outcomes with interested party. Data scientists will program extensively in each of the above steps.\n\n\n\nThere are a few major differences between the two. Statisticians design the procedures, whether they are experiments or surveys. They then study the results. They work with relatively clean data, and relatively more established models when drawing conclusions. Data scientists usually work with unstructured and large data. They need to get creative because there might be a mix of statistical tools and techniques that are needed for them to carry out data cleaning and to apply predictive models. Also, there is an emphasis on machine learning for data science professionals, which is different from the scope of work for statisticians.\nNonetheless, both of them possess a deep understanding of statistical theories and methods when it comes to data analyses and making inferences. They both use techniques such as hypothesis testing, regression, and probability theory when working with data.\n\n\n\nCurrently, my work relates more to statistics. However, to expand research topics and to explore more interesting research questions, it will be beneficial to be equipped with data science knowledge and techniques. This is because, with specialties in data science, I can analyze much more unstructured data and discover interesting findings."
+  },
+  {
+    "objectID": "my_quarto_doc_hw1.html#what-do-you-think-being-a-data-scientist-is-about",
+    "href": "my_quarto_doc_hw1.html#what-do-you-think-being-a-data-scientist-is-about",
+    "title": "data_sci_uvgotthis",
+    "section": "",
+    "text": "From what I read from week 1 course materials, data scientist import data, tidy them, transform them which includings visualizing and modeling, and then communicate the results or outcomes with interested party. Data scientists will program extensively in each of the above steps."
+  },
+  {
+    "objectID": "my_quarto_doc_hw1.html#what-differencessimilarities-do-you-see-between-data-scientists-and-statisticians",
+    "href": "my_quarto_doc_hw1.html#what-differencessimilarities-do-you-see-between-data-scientists-and-statisticians",
+    "title": "data_sci_uvgotthis",
+    "section": "",
+    "text": "There are a few major differences between the two. Statisticians design the procedures, whether they are experiments or surveys. They then study the results. They work with relatively clean data, and relatively more established models when drawing conclusions. Data scientists usually work with unstructured and large data. They need to get creative because there might be a mix of statistical tools and techniques that are needed for them to carry out data cleaning and to apply predictive models. Also, there is an emphasis on machine learning for data science professionals, which is different from the scope of work for statisticians.\nNonetheless, both of them possess a deep understanding of statistical theories and methods when it comes to data analyses and making inferences. They both use techniques such as hypothesis testing, regression, and probability theory when working with data."
+  },
+  {
+    "objectID": "my_quarto_doc_hw1.html#how-do-you-view-yourself-in-relation-to-these-two-areas",
+    "href": "my_quarto_doc_hw1.html#how-do-you-view-yourself-in-relation-to-these-two-areas",
+    "title": "data_sci_uvgotthis",
+    "section": "",
+    "text": "Currently, my work relates more to statistics. However, to expand research topics and to explore more interesting research questions, it will be beneficial to be equipped with data science knowledge and techniques. This is because, with specialties in data science, I can analyze much more unstructured data and discover interesting findings."
+  },
+  {
+    "objectID": "my_quarto_doc_hw1.html#quarto",
+    "href": "my_quarto_doc_hw1.html#quarto",
+    "title": "data_sci_uvgotthis",
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "my_quarto_doc_hw1.html#running-code",
+    "href": "my_quarto_doc_hw1.html#running-code",
+    "title": "data_sci_uvgotthis",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  }
+]
